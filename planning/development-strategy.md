@@ -87,7 +87,7 @@ A simple little website for the world to know a little about JavasCript
 ### Work on JavasCript content examples
 
 1. Planing content for each section of the menu
-1. Create simplistic ans explicit examples to each module 
+1. Create simplistic ans explicit examples to each module
 1. Create a branch named according of the content thar is going to be uploaded
 1. Work on forked index.html file
 1. Work on forked style.css file
@@ -97,6 +97,28 @@ A simple little website for the world to know a little about JavasCript
 1. Change your status in the project, to follow the work
 
 - Assigned to **Brain, Rafael, Tahmina**
+
+#### Code templates section for Brain
+
+1. Variables
+1. Value-Swaps
+1. Primitive types
+1. Logical Operators
+
+#### Code templates section for Tahmina
+
+1. Comments
+1. Block Scope
+1. Conditionals
+1. Comparisons
+1. Arithmetic
+
+#### Code templates section for Rafael
+
+1. Loops
+1. Break Continue
+1. Increment Decrement
+1. functions
 
 ### Finishing details
 
